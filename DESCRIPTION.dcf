@@ -1,0 +1,11 @@
+Package: Basic
+Type: Package
+Title: Print Hello World
+Version: 0.1.0
+Author: Austin Albrecht 
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: Package uses a simple hello world function. When called upon 
+prints hello world. 
+License:CC0
+Encoding: UTF-8
+LazyData: true
